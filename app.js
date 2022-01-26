@@ -1,5 +1,3 @@
-function randomNumber() {
-  return Math.floor(Math.random() * 10) + 1;
-}
+const Game = require("./lib/Game");
 
-module.exports = randomNumber;
+new Game().initializeGame();
