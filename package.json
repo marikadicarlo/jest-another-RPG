@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marikadicarlo/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "another",
+    "rpg"
+  ],
+  "author": "Marika Di Carlo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marikadicarlo/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/marikadicarlo/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
